@@ -51,6 +51,7 @@ $ npm run coverage
 MIT License
 
 Copyright (C) 2012-2013 Jake Luer <jake@qualiancy.com>
+
 Copyright (C) 2013 Veselin Todorov (hi@vesln.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
